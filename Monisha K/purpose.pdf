@@ -1,0 +1,16 @@
+The purpose of this research is to develop a reliable method for forecasting water quality with a proposed model as precisely as necessary. The following are the suitable approaches:
+
+•
+In this study, missing data is handled using the Random Forest approach, and the dataset is splitting using the min-max normalization technique.
+
+•
+Describe and demonstrate the dataset’s significant distribution and feature correlation.
+
+•
+Based on prior research, select the most important features for WQC and categorize three distinct types of water quality based on WQI rate.
+
+•
+SVM, NN, MLR, BTM, and RF algorithms are used to optimize model performance.
+
+•
+The proposed model approaches: develop a software application that uses the MLR algorithm to predict water quality in real time for these three types of WQ.
